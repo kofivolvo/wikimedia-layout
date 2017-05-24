@@ -1,1 +1,46 @@
 
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  text-align: justify;
+  vertical-align: top;
+  width: 70%;
+  font-size: 150%;
+  margin: 0 auto;
+  padding: .5em 1em;
+  font-size: 24px;
+
+
+}
+
+
+
+.thirdP {
+  text-align: right;
+
+
+}
+
+.imgcontain {
+  margin: auto;
+  height: 150vh;
+  width: 70%;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  background: #e0ddd5;
+  color: #171e42;
+
+}
+
+
+
+
+
+img {
+align-content: center;
+
+}
